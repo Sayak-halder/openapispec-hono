@@ -3,6 +3,6 @@ npm install
 npm run dev
 ```
 
-```
-npm run deploy
-```
+## OpenApiSpec with Hono
+
+created the api documentation with simple project on HONO.
